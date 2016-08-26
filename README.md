@@ -6,7 +6,5 @@ for further documentation of code with examples see package manual
 
 for further information about statistical methodology, see arxiv document Amiri et al. (2015) arxiv.1506.07930.pdf
 
-# 2016.08.26  
-
-R workspaces have been added which contain data for several examples, and an additional workspace with graphical results
+2016.08.26  R workspaces have been added which contain data for several examples, and an additional workspace with graphical results
 
